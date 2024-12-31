@@ -22,7 +22,7 @@ const userData = {
   languages: ["English", "Turkish", "Arabic"],
   aboutMe: "Raiyan is passionate about technology and problem solving. Currently working towards becoming a full-stack developer while exploring new fields such as Cyber Security and AI.",
   contact: {
-    email: "raiyan.yasawy@example.com",
+    email: "rayo.yasawy@gmail.com",
     linkedin: "https://www.linkedin.com/in/raiyan-yasawy",
     github: "https://github.com/raiyanyasawy"
   }
