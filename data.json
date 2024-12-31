@@ -1,0 +1,27 @@
+{
+  "name": "Raiyan Yasawy",
+  "skills": ["Full Stack Development", "Databases", "Networking", "Operating Systems"],
+  "education": [
+    "Diploma in Computer Programming at Algonquin College",
+    "Pursuing BSc in Computer Science at Carleton University"
+  ],
+  "experience": [
+    { "role": "IT Support Specialist - Intern", "company": "Algonquin College", "time": "4 months" },
+    { "role": "Front-end Developer - Intern", "company": "Spiria", "time": "4 months" }
+  ],
+  "tools": ["Visual Studio Code", "GitHub", "Docker", "Postman", "Slack", "Wireshark"],
+  "programming_languages": ["Python", "Java", "SQL", "HTML", "CSS", "JavaScript"],
+  "hobbies": ["Building projects", "Soccer", "Chess", "Video Gaming"],
+  "goals": [
+    "Become a full-stack developer",
+    "Contribute to open-source projects",
+    "Expand knowledge in AI and machine learning",
+    "Build expertise in cybersecurity and ethical hacking"
+  ],
+  "location": "Ottawa, ON, Canada",
+  "contact": {
+    "email": "raiyan.yasawy@example.com",
+    "linkedin": "https://www.linkedin.com/in/raiyan-yasawy",
+    "github": "https://github.com/raiyanyasawy"
+  }
+}
